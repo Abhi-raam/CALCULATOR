@@ -1,3 +1,3 @@
 # CALCULATOR
 
-Simple calculator unsing html
+Simple calculator using html
